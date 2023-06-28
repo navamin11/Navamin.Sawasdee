@@ -12,8 +12,8 @@ I like to make things look good, be of intuitive use and accessible to people ac
 I'm always learning something new, improving myself constantly, and reaching out to others on a similar path.
 
 <p align="center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=navamin11&theme=default&show_icons=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navamin11&hide=javascript,html,css" />
+  <img height= "200" src="https://github-readme-stats.vercel.app/api?username=navamin11&theme=default&show_icons=true" />
+  <img height= "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navamin11&hide=javascript,html,css" />
 </p>
 
 <!--h1 without bottom border-->
