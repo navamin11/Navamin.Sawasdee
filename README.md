@@ -3,7 +3,7 @@
 <br />
 
 <a target="_blank" align="center">
-  <img align="right" height="250" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" height="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 I'm Navamin Sawasdee you can call me Jane. A Software Engineer. I have always been more interested in user interfaces and its application to sites & apps.
@@ -11,7 +11,8 @@ I'm Navamin Sawasdee you can call me Jane. A Software Engineer. I have always be
 I like to make things look good, be of intuitive use and accessible to people across languages and locations.
 
 I'm always learning something new, improving myself constantly, and reaching out to others on a similar path.
-
+<br />
+<br />
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=navamin11&theme=default&show_icons=true" />
